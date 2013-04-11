@@ -12,3 +12,4 @@ build/*.phar
 build/*.tgz
 cache.properties
 phpunit.xml
+vendor/
