@@ -1,5 +1,9 @@
 {
-    "hash": "30a04009d3c41ef314daf4965b263910",
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "c522d87e2f045aed9e44dab78c78a53c",
     "packages": [
         {
             "name": "phpunit/php-timer",

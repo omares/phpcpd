@@ -20,7 +20,7 @@
         "sebastian/finder-facade": "1.0.x",
         "phpunit/php-timer": ">=1.0.4,<1.1.0",
         "symfony/finder": ">=2.1.2",
-        "theseer/fdomdocument": "dev-master@dev",
+        "theseer/fdomdocument": "dev-master",
         "sebastian/version": ">=1.0.0"
     },
     "autoload": {
